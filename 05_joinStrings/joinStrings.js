@@ -9,8 +9,12 @@
 
 // Add your code right below, good luck!
 
+const first_name = 'mohamed amine'
+const last_name = 'laaraj'
+const year_born = 2005
+const current_year = 2025
 
-
+const greetings = 'hello , my name is ' + first_name + ' ' + last_name + ' and i am ' + (current_year-year_born) + ' years old '
 
 
 // Do not change this
